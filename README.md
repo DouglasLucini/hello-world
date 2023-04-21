@@ -3,7 +3,6 @@
 Meu nome é **Douglas**, tenho 24 anos, trabalho atualmente como **Quality Assurence** e faço o curso de **Sitemas para Internet**. 
 
 &nbsp;
-
 *Possuo os seguintes cursos profissionalizantes;*
 - Montagem e Manutenção de Computador
 - HTML + CSS Básico
@@ -12,8 +11,6 @@ Meu nome é **Douglas**, tenho 24 anos, trabalho atualmente como **Quality Assur
 - JavaScript Básico
 
 &nbsp;
-
-
 *Tenho algumas experiências de trabalho, como:*
 - Monitor de Informatica
 - Técnico em Montagem e Manutenção de Computadores
